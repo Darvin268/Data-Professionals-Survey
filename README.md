@@ -1,4 +1,3 @@
-![Data Professionals Survey Dashboard](https://github.com/user-attachments/assets/ae0f8207-0717-422e-8740-8f2ab8895f5a)
 # 📊 Data Professionals Survey Dashboard
 
 This project is a Power BI dashboard that visualizes and analyzes responses from a global survey of data professionals. It highlights key insights like salary trends, job roles, programming language preferences, and work-life satisfaction.
